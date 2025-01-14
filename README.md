@@ -1,1 +1,1 @@
-# blackgold-testnetgit push -u origin master
+# blackgold-testnet
